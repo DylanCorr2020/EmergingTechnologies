@@ -4,5 +4,5 @@ This is my Emerging Technology assignment readme. It contains two jupyter notebo
 This jupyter notebook explains .... 
 * ...
 
-
+https://dylancorr2020.github.io/EmergingTechnologies/lab/index.html
 
