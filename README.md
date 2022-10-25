@@ -1,2 +1,8 @@
+# Emerging Technology Module 
+This is my Emerging Technology assignment readme. It contains two jupyter notebooks that explains Quantum Computing and ....
+##  Quantum Computing Notebook
+This jupyter notebook explains .... 
+* ...
 
-##Emerging Technologies Module
+
+
