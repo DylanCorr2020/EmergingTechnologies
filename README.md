@@ -6,9 +6,11 @@ This is the repository for the Emerging Technologies Module.
 ## Introduction
 
 This GitHub repository is set up using JupyterLite containing three JupyterLite notebooks:
-_ Computation
-_ Fourier Transform \* Quantum Computing
-<br>
+
+- Computation
+- Fourier Transform
+- Quantum Computing
+  <br>
 
 ## Repository Setup
 
@@ -23,11 +25,13 @@ This jupyter notebook describes a quick overview of some computational problems,
 
 ## Fourier Transform Jupyter Notebook
 
-    This jupyter notebook describes the Fast Fourier Transform (FFT) which is an algorithm for computing the discrete Fourier transform (DFT) of a sequence of data points.
+- This jupyter notebook describes the Fast Fourier Transform (FFT)
+  which is an algorithm for computing the discrete Fourier transform (DFT) of a sequence of data points.
 
 ## Quantum Computing Jupyter Notebook
 
-    This jupyter notebook describes quantum computing and classical computing as well and provides an explantion and simulation of Deutsch’s algorithm using <i> qiskit </i>.
+- This jupyter notebook describes quantum computing and classical
+  computing as well and provides an explantion and simulation of Deutsch’s algorithm using <i> qiskit </i>.
 
 ## Requirements
 
