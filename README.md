@@ -1,5 +1,7 @@
 # Emerging Technology Module 2022
 
+<img src="EmergingTechnologyBanner.PNG" width = "250" height = "250"></img>
+
 This is the repository for the Emerging Technologies Module.
 <br>
 
@@ -61,8 +63,7 @@ git clone https://github.com/DylanCorr2020/EmergingTechnologies.git
   Learn and install qiskit on your machine click [here](https://www.anaconda.com/products/individual#linux)
   
 </li>
-  
-<li>
+
 
 </ol>
 
